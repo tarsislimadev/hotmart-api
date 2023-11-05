@@ -10,6 +10,12 @@ To get data from Hotmart API
 
 ## how to use
 
+### fill a checkout link with name, e-mail and phone number
+
+```
+bash ./src/checkout.link.sh "Nome Completo" "mail@mail.com" "(11) 98685-8487" 
+```
+
 ## license
 
 [MIT](./LICENSE)
